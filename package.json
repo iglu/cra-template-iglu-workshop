@@ -1,0 +1,11 @@
+{
+  "name": "cra-template-iglu-workshop",
+  "version": "1.0.5",
+  "description": "Workshop template",
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iglu",
+  "license": "ISC"
+}
